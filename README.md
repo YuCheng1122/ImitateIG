@@ -1,4 +1,4 @@
-# 布魯斯前端 React仿Instagram教學 初始專案
+# 布魯斯前端 React仿Instagram教學
 
 ## 如何使用此專案？
 
